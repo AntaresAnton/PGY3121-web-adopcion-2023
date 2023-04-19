@@ -1,0 +1,49 @@
+/* textos */
+.t-morado{color:#a997c8!important}.t-celeste{color:#bcdef1!important}.t-amarillo{color:#eeeb90!important}.t-verde{color:#a3d2b9!important}.t-naranjo{color:#e6894b!important}.t-rosado{color:#e48cb5!important}
+/* backgrounds */
+.bg-morado{background-color:#a997c8!important}.bg-celeste{background-color:#bcdef1!important}.bg-amarillo{background-color:#eeeb90!important}.bg-verde{background-color:#a3d2b9!important}.bg-naranjo{background-color:#f2bf9d!important}.bg-rosado{background-color:#e48cb5!important}.bg-celeste-lg{background-color:#d4efff!important}
+/* ==================================================================== */
+/* css custom */
+/* peso visual de los textos */
+.t100{
+    font-weight: 100 !important;
+}
+.t200{
+    font-weight: 200 !important;
+}
+.t300{
+    font-weight: 300 !important;
+}
+.t400{
+    font-weight: 400 !important;
+}
+.t500{
+    font-weight: 500 !important;
+}
+.t600{
+    font-weight: 600 !important;
+}
+.t700{
+    font-weight: 700 !important;
+}
+.t800{
+    font-weight: 800 !important;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+/* estas clases al tener los mismos parámetros, se colocan en la misma separada con una coma */
+.logo,
+.solucion{
+    font-size: 1.5rem;
+}
+.btn-morado{
+    background-color:#a997c8!important;
+}
+.btn-morado:hover{
+    background-color:#8c50f4!important;
+}
+i.cal{
+    font-size: 1.5rem;
+}
